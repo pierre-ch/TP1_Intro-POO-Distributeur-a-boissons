@@ -8,17 +8,17 @@ namespace Projet_Distributeur_à_boissons
 {
     class Boisson
     {
-        private string intitulé;
+        private string intitule;
         private string description;
-        private double prix;
-        private int qt;
+        private double prix = 0.5;
+        private int qt = 10;
         private int qtsucre;
         private bool chg_qtsucre;
         private string etat;
-
-        public Boisson(string unIntitulé, string uneDescription, double unPrix, int uneQuantite, int uneQuantiteDeSucre, bool unChangementQuantiteDeSucre, string unEtat)
+                                                                        
+        public Boisson(string unIntitule, string uneDescription, double unPrix, int uneQuantite, int uneQuantiteDeSucre, bool unChangementQuantiteDeSucre, string unEtat)
         {
-            this.intitulé = unIntitulé;
+            this.intitule = unIntitule;
             this.description = uneDescription;
             this.prix = unPrix;
             this.qt = uneQuantite;
@@ -27,7 +27,28 @@ namespace Projet_Distributeur_à_boissons
             this.etat = unEtat;
         }
 
+        public string getIntitule()
+        {
+            return intitule;
+        }
 
+        public string getDescription()
+        {
+            return description;
+        }
 
+        public double getPrix()
+        {
+            return prix;
+        }
+        public int getStockDisponible()
+        {
+            return qt;
+        }
+
+        public void setQuantite(int uneQuantite)
+        {
+            qt = uneQuantite;
+        }
     }
 }

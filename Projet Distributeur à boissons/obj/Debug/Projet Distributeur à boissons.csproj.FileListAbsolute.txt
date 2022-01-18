@@ -1,0 +1,7 @@
+E:\M. Henri\2ème semestre\TP 1\Projet Distributeur à boissons\Projet Distributeur à boissons\obj\Debug\Projet Distributeur à boissons.csproj.AssemblyReference.cache
+E:\M. Henri\2ème semestre\TP 1\Projet Distributeur à boissons\Projet Distributeur à boissons\obj\Debug\Projet Distributeur à boissons.csproj.CoreCompileInputs.cache
+E:\M. Henri\2ème semestre\TP 1\Projet Distributeur à boissons\Projet Distributeur à boissons\bin\Debug\Projet Distributeur à boissons.exe.config
+E:\M. Henri\2ème semestre\TP 1\Projet Distributeur à boissons\Projet Distributeur à boissons\bin\Debug\Projet Distributeur à boissons.exe
+E:\M. Henri\2ème semestre\TP 1\Projet Distributeur à boissons\Projet Distributeur à boissons\bin\Debug\Projet Distributeur à boissons.pdb
+E:\M. Henri\2ème semestre\TP 1\Projet Distributeur à boissons\Projet Distributeur à boissons\obj\Debug\Projet Distributeur à boissons.exe
+E:\M. Henri\2ème semestre\TP 1\Projet Distributeur à boissons\Projet Distributeur à boissons\obj\Debug\Projet Distributeur à boissons.pdb
