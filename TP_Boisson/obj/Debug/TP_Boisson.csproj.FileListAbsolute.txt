@@ -1,0 +1,7 @@
+C:\Users\UserSIO\source\repos\TP_Boisson\TP_Boisson\bin\Debug\TP_Boisson.exe.config
+C:\Users\UserSIO\source\repos\TP_Boisson\TP_Boisson\bin\Debug\TP_Boisson.exe
+C:\Users\UserSIO\source\repos\TP_Boisson\TP_Boisson\bin\Debug\TP_Boisson.pdb
+C:\Users\UserSIO\source\repos\TP_Boisson\TP_Boisson\obj\Debug\TP_Boisson.csproj.AssemblyReference.cache
+C:\Users\UserSIO\source\repos\TP_Boisson\TP_Boisson\obj\Debug\TP_Boisson.csproj.CoreCompileInputs.cache
+C:\Users\UserSIO\source\repos\TP_Boisson\TP_Boisson\obj\Debug\TP_Boisson.exe
+C:\Users\UserSIO\source\repos\TP_Boisson\TP_Boisson\obj\Debug\TP_Boisson.pdb
